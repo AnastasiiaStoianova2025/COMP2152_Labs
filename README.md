@@ -1,1 +1,1 @@
-COMP2152_Labs repo by Anastasiia Stoianova
+# COMP2152_Labs repo by Anastasiia Stoianova
