@@ -1,4 +1,4 @@
-# COMP2152 — Open Systems Labs
+# COMP2152 — Labs
 
 **Anastasiia Stoianova**
 
@@ -12,7 +12,7 @@
 | 04 | Loops & algorithms — nested loops, Two Sum, shuffle | [Week04](Week04/) |
 | 05 | Recursion & functions — Fibonacci, FizzBuzz | [Week05](Week05/) |
 | 06 | File I/O (text & CSV), exceptions & system commands | [Week06](Week06/) |
-| 07–08 | *Reading week / no lab* | — |
+| 07–08 | *Midterm week and Reading week / no labs* | — |
 | 09 | System modules, threading & unit testing | [Week09](Week09/) |
 | 10 | SQLite databases — CRUD (Password Vault) | [Week10](Week10/) |
 | 11 | Intro to OOP — classes, constructors & methods | [Week11](Week11/) |
