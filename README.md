@@ -16,7 +16,7 @@
 | 09 | System modules, threading & unit testing | [Week09](Week09/) |
 | 10 | SQLite databases — CRUD (Password Vault) | [Week10](Week10/) |
 | 11 | Intro to OOP — classes, constructors & methods | [Week11](Week11/) |
-| 12 | *Coming soon* | — |
+| 12 | Inheritance, polymorphism & special (dunder) methods | [Week12](Week12/) |
 | 13 | *Coming soon* | — |
 | 14 | *Coming soon* | — |
 
