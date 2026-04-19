@@ -18,7 +18,7 @@
 | 11 | Intro to OOP — classes, constructors & methods | [Week11](Week11/) |
 | 12 | Inheritance, polymorphism & special (dunder) methods | [Week12](Week12/) |
 | 13 | Data analysis for security — CSV import, filtering & ASCII dashboards | [Week13](Week13/) |
-| 14 | *Coming soon* | — |
+| 14 | Web requests & HTTP security — API explorer & header checker | [Week14](Week14/) |
 
 ---
 
